@@ -1,6 +1,7 @@
 from typing import Dict, List
 from pprint import pprint
 import pickle
+import string
 
 
 def exercise_12_1():
@@ -106,5 +107,5 @@ def exercise_12_3():
 
 if __name__ == "__main__":
     # exercise_12_2()
-    exercise_12_3()
-    # print(is_meta_pair("blas", "bald"))
+    # exercise_12_3()
+    exercise_12_4()
